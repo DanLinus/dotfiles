@@ -1,0 +1,13 @@
+open_with ffplay
+hz
+cp
+pp
+[1;5A[1;5A[1;5A[1;5A[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B[1;5B
+copy add 
+cd
+echo danlinus
+vlc
+search
+~
+
+h
