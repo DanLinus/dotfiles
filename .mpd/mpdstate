@@ -1,0 +1,240 @@
+sw_volume: 100
+audio_device_state:1:MPD
+audio_device_state:1:my_fifo
+state: stop
+current: 100
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Musicas_Organizadas/D/Dance/Ama/01 XE3 (Wheathin Turn).mp3
+1:Musicas_Organizadas/D/Dance/Ama/AronChupa - I&#39;m An Albatraoz (E.Y. Beats Trap Remix).mp3
+2:Musicas_Organizadas/D/Dance/Ama/Asario - Orgabo.mp3
+3:Musicas_Organizadas/D/Dance/Ama/Avicii - Wake Me Up (Official Video).MP3
+4:Musicas_Organizadas/D/Dance/Ama/Beauty Brain - Veneno (Tropkillaz Remix).mp3
+5:Musicas_Organizadas/D/Dance/Ama/Calvin Harris - Summer.MP3
+6:Musicas_Organizadas/D/Dance/Ama/Calvin Harris - Sweet Nothing ft. Florence Welch.MP3
+7:Musicas_Organizadas/D/Dance/Ama/Cartoon - On &amp; On (feat. Daniel Levi) [NCS Release].MP3
+8:Musicas_Organizadas/D/Dance/Ama/Dido - Thank You (Goshfather &amp; Jinco Remix).mp3
+9:Musicas_Organizadas/D/Dance/Ama/Diplo - Revolution (SEAN&amp;BOBO REMIX).MP3
+10:Musicas_Organizadas/D/Dance/Ama/Disfigure - Hollah!.mp3
+11:Musicas_Organizadas/D/Dance/Ama/Electro &amp; House Music 2015 - Dance Mix #51 Mixed by Mike Reevey.MP3
+12:Musicas_Organizadas/D/Dance/Ama/Electro Light ft. Kathryn MacLean - The Edge.mp3
+13:Musicas_Organizadas/D/Dance/Ama/Eminem - The Monster (Explicit) ft. Rihanna.MP3
+14:Musicas_Organizadas/D/Dance/Ama/Flume - Some Minds (XVII Flip).MP3
+15:Musicas_Organizadas/D/Dance/Ama/Galantis - Runaway (U &amp; I) (Gioni Remix).MP3
+16:Musicas_Organizadas/D/Dance/Ama/INTRO DUAL - Foguetinha Ft Nexusfx&#39;.mp3
+17:Musicas_Organizadas/D/Dance/Ama/Kid Cudi - Day &#39;N&#39; Nite (Andrew Luce Remix).MP3
+18:Musicas_Organizadas/D/Dance/Ama/Knife Party x Major Lazer &amp; Dj Snake - Lean On Bonfire (Djs From Mars Bootleg) [MIDTEMPO].mp3
+19:Musicas_Organizadas/D/Dance/Ama/Martin Garrix - Forbidden Voices.MP3
+20:Musicas_Organizadas/D/Dance/Ama/Martin Solveig &amp; GTA - Intoxicated (Paris &amp; Simo Remix).MP3
+21:Musicas_Organizadas/D/Dance/Ama/MC Brinquedo - Roça Roça (Flying Buff Trap Remix Official Video).mp3
+22:Musicas_Organizadas/D/Dance/Ama/Mr Probz - Waves (Official Video) [Robin Schulz Remix].MP3
+23:Musicas_Organizadas/D/Dance/Ama/OneRepublic - Counting Stars.MP3
+24:Musicas_Organizadas/D/Dance/Ama/Starset - My Demons (Synchronice Remix).mp3
+25:Musicas_Organizadas/D/Dance/Ama/Take-Five - Bap.MP3
+26:Musicas_Organizadas/D/Dance/Ama/Years &amp; Years - King (MACE Remix).MP3
+27:Musicas_Organizadas/D/Dance/Ama/Ta De Borest - Kuase Nada.mp3
+28:Musicas_Organizadas/D/Dance/Ama/Kito & Reija Lee - Night By Night.mp3
+29:Musicas_Organizadas/D/Dance/BlackYour/Blasterjaxx &amp; DBSTF - Beautiful World (Drevm X Heavy Fire Remix).mp3
+30:Musicas_Organizadas/D/Dance/BlackYour/JAEGER &amp; Meric - Mammoth.mp3
+31:Musicas_Organizadas/D/Dance/BlackYour/Jim Yosef - Eclipse [NCS Release].mp3
+32:Musicas_Organizadas/D/Dance/BlackYour/Lana Del Rey - High By The Beach (Justin Caruso Remix) [Meg Paton Cover].mp3
+33:Musicas_Organizadas/D/Dance/BlackYour/Nirvana+-+Smells+Like+Teen+Spirit.mp3
+34:Musicas_Organizadas/D/Dance/BlackYour/Remmi - Star Spangled (Not Your Dope x Taptone Remix).mp3
+35:Musicas_Organizadas/D/Dance/BlackYour/San Holo - Can&#39;t Forget You (ft. The Nicholas).mp3
+36:Musicas_Organizadas/D/Dance/BlackYour/Spaces - Will Wait.mp3
+37:Musicas_Organizadas/D/Dance/BlackYour/T &amp; Sugah x NCT - Stardust (feat. Miyoki) [NCS Release].mp3
+38:Musicas_Organizadas/D/Dance/BlackYour/Three+Days+Grace+-+Animal+I+Have+Become.mp3
+39:Musicas_Organizadas/D/Dance/BlackYour/Three+Days+Grace+-+Human+Race+(Lyric).mp3
+40:Musicas_Organizadas/D/Dance/BlackYour/Three+Days+Grace+-+I+Hate+Everything+About+You.mp3
+41:Musicas_Organizadas/D/Dance/BlackYour/Three+Days+Grace+-+Never+Too+Late.mp3
+42:Musicas_Organizadas/D/Dance/BlackYour/Three+Days+Grace+-+Riot.mp3
+43:Musicas_Organizadas/D/Dance/Crazy/Chordial - Recover [Premiere].mp3
+44:Musicas_Organizadas/D/Dance/Crazy/Glades - Drive (Mt Eden Remix).mp3
+45:Musicas_Organizadas/D/Dance/Crazy/Goblins from Mars - Apollo 69.mp3
+46:Musicas_Organizadas/D/Dance/Crazy/Jetta - I'd Love To Change The World (Matstubs Remix).mp3
+47:Musicas_Organizadas/D/Dance/Crazy/Kali Uchis - Ridin Round ft. Tory Lanez (Oshi Redo).mp3
+48:Musicas_Organizadas/D/Dance/Crazy/Synoid - Duality.mp3
+49:Musicas_Organizadas/D/Dance/Crazy/Alan Walker - Faded ( Lyrics ).mp3
+50:Musicas_Organizadas/D/Dance/Crow/[DnB] - Melano - Don't Fight It [Monstercat Release].mp3
+51:Musicas_Organizadas/D/Dance/Crow/EGZOD - Triad.mp3
+52:Musicas_Organizadas/D/Dance/Crow/Fareoh - Cloud Ten.mp3
+53:Musicas_Organizadas/D/Dance/Crow/Illenium - It's All On U (feat. Liam O'Donnell).mp3
+54:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/200K Subscribers Special Compilation ★_(◡﹏◕✿) - 128K MP3.mp3
+55:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Anatu - Bleach - 128K MP3.mp3
+56:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Best of No Copyright Sounds _024 _ SUMMER 2016 - B - 128K MP3.mp3
+57:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Bright Lights - Runaway ft. BLAU (T-Mass Remix) - 128K MP3.mp3
+58:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/CHROPE - Better Days - 128K MP3.mp3
+59:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Daydreamer - Travelling Light - 128K MP3.mp3
+60:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Evanescence - My Immortal - 128K MP3.mp3
+61:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/High Performance - One More Time - 128K MP3.mp3
+62:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/HUNTAR - Blindspot - 128K MP3.mp3
+63:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Jayceeoh ft. Nevve - Elevate - 128K MP3.mp3
+64:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/John Legend - All of Me - 128K MP3.mp3
+65:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Jordan Comolli _ Hilton - Absence - 128K MP3.mp3
+66:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Konac - Home [NCS Release] - 128K MP3.mp3
+67:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Martin Garrix _ Bebe Rexha - In The Name Of Love ( - 128K MP3.mp3
+68:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Nitrate X Nate Harrell - Hero - 128K MP3.mp3
+69:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Passenger _ Let Her Go (Official Video) - 128K MP3.mp3
+70:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/PLS_TY _ Autolaser - Hiding From The Rain (Xan Gri - 128K MP3.mp3
+71:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/PsoGnar - The Great Deception - 128K MP3.mp3
+72:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/R3LL _ HVNS – All 2 U ft. Kiff (MERCE VIP) - 128K MP3.mp3
+73:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Rich Edwards - Where I_ll Be Waiting (VIP Mix) (fe - 128K MP3.mp3
+74:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Rich Edwards - Where I_ll Be Waiting (VIP Mix) [ft - 128K MP3.mp3
+75:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Ricky Mears - Threads - 128K MP3.mp3
+76:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Seven Lions - Creation (Beatman _ Ludmilla Remix) - 128K MP3.mp3
+77:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Skrillex - Lost Footage - 128K MP3.mp3
+78:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Swedish House Mafia - Leave The World Behind (JayK - 128K MP3.mp3
+79:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/twenty one pilots_ Ride (Video) - 128K MP3.mp3
+80:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Ufis - Silhouettes - 128K MP3.mp3
+81:Musicas_Organizadas/D/Dance/Fotos da Naty e Lari/Yellow Claw - Invitation (ft. Yade Lauren) - 128K MP3.mp3
+82:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/01 Welcome to the Jungle.mp3
+83:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/02 Sweet Child O' Mine.mp3
+84:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/03 Patience.mp3
+85:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/04 Paradise City.mp3
+86:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/05 Knockin' on Heaven's Door.mp3
+87:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/06 Civil War.mp3
+88:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/07 You Could Be Mine.mp3
+89:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/08 Don't Cry [Original Version].mp3
+90:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/09 November Rain.mp3
+91:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/10 Live and Let Die.mp3
+92:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/11 Yesterdays.mp3
+93:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/12 Ain't It Fun.mp3
+94:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/13 Since I Don't Have You.mp3
+95:Musicas_Organizadas/D/Dance/Guns N Roses - Greatest Hits/14 14 - Sympathy For The Devil.mp3
+96:Musicas_Organizadas/D/Dance/LBG/ATB - Ecstasy (ARMNHMR &amp; DATHAN Flip).mp3
+97:Musicas_Organizadas/D/Dance/LBG/Black Coast - TRNDSTTR (Lucian Remix).MP3
+98:Musicas_Organizadas/D/Dance/LBG/BLVC SVND x Oshi - BOOMIN.mp3
+99:Musicas_Organizadas/D/Dance/LBG/Eminem, Dr. Dre - Forgot About Dre ft. Hittman (Fransis Derelle &amp; Sightlow Trap Remix).mp3
+100:Musicas_Organizadas/D/Dance/LBG/Lørean - Better One (This Is I Told You I Love).mp3
+101:Musicas_Organizadas/D/Dance/LBG/Major Lazer &amp; DJ Snake - Lean On (feat. MØ) (Club Killers Remix).MP3
+102:Musicas_Organizadas/D/Dance/LBG/Mendum - Rain (feat. Brenton Mattheus).mp3
+103:Musicas_Organizadas/D/Dance/LBG/Philco Fiction - Talk-Brag (Draper Remix).mp3
+104:Musicas_Organizadas/D/Dance/LBG/Skrillex+&amp;+Damian+Marley+-+Make+It+Bun+Dem+(Laudz+Trap+Remix).mp3
+105:Musicas_Organizadas/D/Dance/LBG/The Fugees - Ready or Not (E.Y. Beats Remix).mp3
+106:Musicas_Organizadas/D/Dance/LBG/TroyBoi+-+Afterhours+(feat.+Diplo+&amp;+Nina+Sky).mp3
+107:Musicas_Organizadas/D/Dance/LBG/Zes - Do It Again - EDM - Future House - PixelMusic.mp3
+108:Musicas_Organizadas/D/Dance/liwishot/12th Hour - Mech Terror.mp3
+109:Musicas_Organizadas/D/Dance/liwishot/20syl - Seven Eleven feat Ibrahim Maalouf.mp3
+110:Musicas_Organizadas/D/Dance/liwishot/4Dubz &amp; Isolationz &amp; Elerment1 - Triple Threat (VIP).mp3
+111:Musicas_Organizadas/D/Dance/liwishot/Adele - Hello (Sammie Beats Remix) [Mariangelica Ardon Cover].mp3
+112:Musicas_Organizadas/D/Dance/liwishot/Betsy - Fair (Ashton Love Remix).mp3
+113:Musicas_Organizadas/D/Dance/liwishot/Brig - Spoil [NCS Release].mp3
+114:Musicas_Organizadas/D/Dance/liwishot/Calvin Harris &amp; Disciples - How Deep Is Your Love (David Gravell Remix).mp3
+115:Musicas_Organizadas/D/Dance/liwishot/Deltabot - Loud Skies.mp3
+116:Musicas_Organizadas/D/Dance/liwishot/Deorro - Five Hours (Static Video) [LE7ELS].mp3
+117:Musicas_Organizadas/D/Dance/liwishot/Domascus - Bring it Back.mp3
+118:Musicas_Organizadas/D/Dance/liwishot/Duke Dumont - I Got U (Official video) ft. Jax Jones.mp3
+119:Musicas_Organizadas/D/Dance/liwishot/Felix Jaehn - Ain’t Nobody (Loves Me Better) ft. Jasmine Thompson.mp3
+120:Musicas_Organizadas/D/Dance/liwishot/Fytch - Sirens Over Paris.mp3
+121:Musicas_Organizadas/D/Dance/liwishot/Harrier &amp; Jiqzy - Ghost Murderers.mp3
+122:Musicas_Organizadas/D/Dance/liwishot/KXA - Gladius.mp3
+123:Musicas_Organizadas/D/Dance/liwishot/Lost Frequencies - Are You With Me (Official Music Video).mp3
+124:Musicas_Organizadas/D/Dance/liwishot/Major Lazer feat. Wild Belle - Be Together (Gioni Remix).mp3
+125:Musicas_Organizadas/D/Dance/liwishot/Nando Míguez - Dementia Ft. Nathy Peluso (BOIRIA Remix).mp3
+126:Musicas_Organizadas/D/Dance/liwishot/OLWIK - Finally (feat. Joshua Swerin).mp3
+127:Musicas_Organizadas/D/Dance/liwishot/Qaliber - Leverage.mp3
+128:Musicas_Organizadas/D/Dance/liwishot/Rozes - R U MINE (SteLouse Remix).mp3
+129:Musicas_Organizadas/D/Dance/liwishot/SoundYum - Lunacy (Bones No!ze Remix).mp3
+130:Musicas_Organizadas/D/Dance/liwishot/The Chainsmokers - NYC (JayKode Remix).mp3
+131:Musicas_Organizadas/D/Dance/liwishot/The Chainsmokers - Roses (Lookas Remix) ft. ROZES.mp3
+132:Musicas_Organizadas/D/Dance/liwishot/TheFatRat feat. Laura Brehm - Monody (THE ARTIST X ALBERT REMIX).mp3
+133:Musicas_Organizadas/D/Dance/liwishot/TROM8 - Stormpooper.mp3
+134:Musicas_Organizadas/D/Dance/liwishot/Twenty One Pilots - Stressed Out (Tomsize Remix).mp3
+135:Musicas_Organizadas/D/Dance/liwishot/Veorra - Gone.mp3
+136:Musicas_Organizadas/D/Dance/liwishot/Veorra - Home.mp3
+137:Musicas_Organizadas/D/Dance/liwishot/Veorra - Secrets.mp3
+138:Musicas_Organizadas/D/Dance/liwishot/VIBEMENT - Flavorz.mp3
+139:Musicas_Organizadas/D/Dance/liwishot/Watermät - Bullit (Official Music Video) [OUT NOW].mp3
+140:Musicas_Organizadas/D/Dance/liwishot/Xerium - Warrior.mp3
+141:Musicas_Organizadas/D/Dance/liwishot/ZHU - Faded.mp3
+142:Musicas_Organizadas/D/Dance/Make/Anikdote - Life Is Over.mp3
+143:Musicas_Organizadas/D/Dance/Make/ATB - Flash X (Rusty Hook Flip).mp3
+144:Musicas_Organizadas/D/Dance/Make/Cross Control &amp; Skyloud - Copycat.mp3
+145:Musicas_Organizadas/D/Dance/Make/DJ Snake - Middle ft. Bipolar Sunshine (FLØRALS Remix).mp3
+146:Musicas_Organizadas/D/Dance/Make/Figure+-+One+Million+Tons+Of+Starship+(Stratus+Remix).mp3
+147:Musicas_Organizadas/D/Dance/Make/Hozier - Take me to church (Deviler remix).mp3
+148:Musicas_Organizadas/D/Dance/Make/Isolationz &amp; Yiro - Mr. Heddy.mp3
+149:Musicas_Organizadas/D/Dance/Make/KSHMR &amp; Marnik - Bazaar (Magnace Remix).mp3
+150:Musicas_Organizadas/D/Dance/Make/Nirvana &amp; Red Hot Chili Peppers &amp; Gorky Park Electro House Rock Agosto 2012 - Eletronica Rock Remix.mp3
+151:Musicas_Organizadas/D/Dance/Make/Robin+Schulz+&amp;+Judge+-+Show+Me+Love+(JAN3K+&amp;+J&amp;G+Bootleg).mp3
+152:Musicas_Organizadas/D/Dance/Make/Sundivine - Stories.mp3
+153:Musicas_Organizadas/D/Dance/Make/T-Mass &amp; unknown - Trapped in Fourths (ft. Mona Moua).mp3
+154:Musicas_Organizadas/D/Dance/Make/Tom Swoon vs Ale Q &amp; Sonny Noto - Alive (D$GNR Remix).mp3
+155:Musicas_Organizadas/D/Dance/Make/Trifo &amp; Simon Milan - Away From Me.mp3
+156:Musicas_Organizadas/D/Dance/Make/WolfAyoub - Sociable Legends.mp3
+157:Musicas_Organizadas/D/Dance/Nayp/[House] - Rich Edwards - Where I'll Be Waiting (feat. Cozi Zuehlsdorff) [Monster.mp3
+158:Musicas_Organizadas/D/Dance/Nayp/[Trap] - Stonebank - Never Looking Back [Monstercat Release].mp3
+159:Musicas_Organizadas/D/Dance/Nayp/Equalize & Surface - Never Forget.mp3
+160:Musicas_Organizadas/D/Dance/Nayp/ERA - Ameno.mp3
+161:Musicas_Organizadas/D/Dance/Nayp/Festivillainz - Need U.mp3
+162:Musicas_Organizadas/D/Dance/Nayp/Goblins from Mars - Attack Of The Sloth.mp3
+163:Musicas_Organizadas/D/Dance/Nayp/HANNIS - In Another World (iNFLuX Remix).mp3
+164:Musicas_Organizadas/D/Dance/Nayp/Jo Cohen & Sex Whales - We Are [Goblin Release].mp3
+165:Musicas_Organizadas/D/Dance/Nayp/Luminox - BOMBA! [Goblin Release].mp3
+166:Musicas_Organizadas/D/Dance/Nayp/Sia - Elastic Heart (Kevin Easy Remix).mp3
+167:Musicas_Organizadas/D/Dance/Nayp/TROM 8 - This World is not For Us.mp3
+168:Musicas_Organizadas/D/Dance/Nayp/Tujamo - Drop That Low (When I Dip) [Official Music Video].mp3
+169:Musicas_Organizadas/D/Dance/Nayp/VIBEMENT - Fully Alive.mp3
+170:Musicas_Organizadas/D/Dance/Nice/BOIRIA - We&#39;re 4000 Soldiers.mp3
+171:Musicas_Organizadas/D/Dance/Nice/C3EYOND - Toxic.mp3
+172:Musicas_Organizadas/D/Dance/Nice/Dash Berlin ft. Roxanne Emery - Shelter (C3EYOND Remix).mp3
+173:Musicas_Organizadas/D/Dance/Nice/Deven Coleman - Broken Wings (Prod. Tido Vegas).mp3
+174:Musicas_Organizadas/D/Dance/Nice/Different+Heaven+-+Far+Away+[NCS+Release].mp3
+175:Musicas_Organizadas/D/Dance/Nice/MaisterChaos - Ripdem.mp3
+176:Musicas_Organizadas/D/Dance/Nice/Marcus+Santoro+&amp;+Go+Comet!+-+Fight+Like+Lovers.mp3
+177:Musicas_Organizadas/D/Dance/Nice/Wavemode+-+Spooky+Monsters.mp3
+178:Musicas_Organizadas/D/Dance/Uhum/[DnB] - Noisestorm - Leaving Now [Monstercat Release].mp3
+179:Musicas_Organizadas/D/Dance/Uhum/[House] - Rich Edwards - Where I'll Be Waiting (feat. Cozi Zuehlsdorff) [Monster.mp3
+180:Musicas_Organizadas/D/Dance/Uhum/【Melodic+Dubstep】Closed+Eyes+-+Everlasting+[Free+Download].mp3
+181:Musicas_Organizadas/D/Dance/Uhum/【Melodic+Dubstep】James+Egbert+ft.+Nina+Sung+-+Exit+Wounds+(Cappa+Regime+Remix)+[Free+Download].mp3
+182:Musicas_Organizadas/D/Dance/Uhum/【Melodic+Dubstep】James+Egbert+ft.+Nina+Sung+-+Exit+Wounds+(Cappa+Regime+Remix)+[Free+Download](1).mp3
+183:Musicas_Organizadas/D/Dance/Uhum/【Melodic+Dubstep】Klaypex+-+Lights+(Skrux+Remix).mp3
+184:Musicas_Organizadas/D/Dance/Uhum/【Melodic+Dubstep】Music+Predators+-+Atmosphere.mp3
+185:Musicas_Organizadas/D/Dance/Uhum/1+Hour+-+Epic+Nighstep+Mix+#1+[HD].mp3
+186:Musicas_Organizadas/D/Dance/Uhum/501+-+Hold+Back.mp3
+187:Musicas_Organizadas/D/Dance/Uhum/501+-+Night+Drive.mp3
+188:Musicas_Organizadas/D/Dance/Uhum/Alan Walker - Faded (Tiesto's Northern Lights Remix) (Video SUB ESPAÑOL).mp3
+189:Musicas_Organizadas/D/Dance/Uhum/Alesso+-+Heroes+(we+could+be)+ft.+Tove+Lo+(Branchez+Remix).mp3
+190:Musicas_Organizadas/D/Dance/Uhum/AUD-20160520-WA0013.aac
+191:Musicas_Organizadas/D/Dance/Uhum/Don't Stop - Sam Cross & Wanna Wake (Copyright Free Music).mp3
+192:Musicas_Organizadas/D/Dance/Uhum/JiKay & MNKN ft. Gaby Henshaw - Take Me (Not Your Dope Remix).mp3
+193:Musicas_Organizadas/D/Dance/Uhum/Krewella - Broken Record.mp3
+194:Musicas_Organizadas/D/Dance/Uhum/KSHMR and Felix Snow - Touch ft. Madi (Official Music Video).mp3
+195:Musicas_Organizadas/D/Dance/Uhum/Lenka+-+Blue+Skies+(REVOKE+Remix).mp3
+196:Musicas_Organizadas/D/Dance/Uhum/Mr.+Carmack+-+Pay+For+What+(Alexander+Lewis+Trombone+Flip).mp3
+197:Musicas_Organizadas/D/Dance/Uhum/Nightcore- No Money (Galantis).mp3
+198:Musicas_Organizadas/D/Dance/Uhum/Nightcore+-+Clarity.mp3
+199:Musicas_Organizadas/D/Dance/Uhum/Nightcore+-+Love+Me+Like+You+Do.mp3
+200:Musicas_Organizadas/D/Dance/Uhum/Rihanna feat Drake - Work (R3hab Remix).mp3
+201:Musicas_Organizadas/D/Dance/Uhum/Robin schulz ft. Akon - Heatwave (Original mix).mp3
+202:Musicas_Organizadas/D/Dance/Uhum/Sound+Remedy+-+Victory+(feat.+Evvy).mp3
+203:Musicas_Organizadas/D/Dance/Uhum/StonedTroopers - System (Copyright Free Music).mp3
+204:Musicas_Organizadas/D/Dance/Uhum/Take-Five & Jordan Comolli - Quake.mp3
+205:Musicas_Organizadas/D/Dance/Uhum/Tha Trickaz ✖ Creaky Jackals - Dopeness.mp3
+206:Musicas_Organizadas/D/Dance/Uhum/TheFatRat+-+Xenogenesis.mp3
+207:Musicas_Organizadas/D/Dance/Uhum/Tujamo - Drop That Low (When I Dip) [Official Music Video].mp3
+208:Musicas_Organizadas/D/Dance/Wall-E/♫ Best of Tobu Mix #12 - NCS - January 2016 - No Copyright Sounds Gaming Mix - Best of NCS.mp3
+209:Musicas_Organizadas/D/Dance/Wall-E/A R I Z O N A - Where I Wanna Be (James Carter &amp; Levi Remix).mp3
+210:Musicas_Organizadas/D/Dance/Wall-E/Best of Trap 2015 - unknown &amp; Space Race Trap Music Mix.mp3
+211:Musicas_Organizadas/D/Dance/Wall-E/Capleton+-+Jah+Jah+City+(Banx+&amp;+Ranx+Remix).mp3
+212:Musicas_Organizadas/D/Dance/Wall-E/CRAVIN+-+Hold+Me.mp3
+213:Musicas_Organizadas/D/Dance/Wall-E/Different Heaven - Far Away [NCS Release].mp3
+214:Musicas_Organizadas/D/Dance/Wall-E/Isolationz &amp; BOOEY - Smash Bros (TYBASH3R Remix).mp3
+215:Musicas_Organizadas/D/Dance/Wall-E/MORTEN - Beautiful Heartbeat (Nine Lives Remix).mp3
+216:Musicas_Organizadas/D/Dance/Wall-E/Paris Blohm &amp; Nolan Van Lith - Waves.mp3
+217:Musicas_Organizadas/D/Dance/Wall-E/Pegboard Nerds - Here It Comes (Equalize Remix).mp3
+218:Musicas_Organizadas/D/Dance/Wall-E/Porter Robinson - Fellow Feeling (Crystalize&#39;s Future Trap Edit).mp3
+219:Musicas_Organizadas/D/Dance/Wall-E/Pure Play - Lion.mp3
+220:Musicas_Organizadas/D/Dance/Wall-E/Qaliber - Amsterdam.mp3
+221:Musicas_Organizadas/D/Dance/Wall-E/Torro+Torro+-+Make+A+Move+(Skrillex+Remix).mp3
+222:Musicas_Organizadas/D/Dance/Wall-E/TYuS - City Of The Rose (Wheathin Remix).mp3
+223:Musicas_Organizadas/D/Dance/Wall-E/Valesco - Cloud 9.mp3
+224:Musicas_Organizadas/D/Dance/Wall-E/Veorra &amp; The Tech Thieves - Ghost Town.mp3
+225:Musicas_Organizadas/D/Dance/Wall-E/WHYZDM &amp; Nottich - Thinking About You (Ft. Angelina).mp3
+playlist_end
