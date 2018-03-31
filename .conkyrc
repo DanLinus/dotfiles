@@ -1,0 +1,85 @@
+######################
+# - Conky settings - #
+######################
+update_interval 1
+total_run_times 0
+net_avg_samples 1
+cpu_avg_samples 1
+
+imlib_cache_size 0
+double_buffer yes
+no_buffers yes
+
+#####################
+# - Text settings - #
+#####################
+use_xft yes
+xftfont Ubuntu:size=9
+override_utf8_locale yes
+text_buffer_size 2048
+
+#############################
+# - Window specifications - #
+#############################
+own_window_class Conky
+own_window yes
+own_window_type override
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_argb_visual yes
+own_window_argb_value 100
+own_window_argb_visual yes
+
+own_window_type normal 
+alignment tr
+gap_x 0
+gap_y 60
+minimum_size 350 300
+
+
+default_bar_size 60 8
+
+#########################
+# - Graphics settings - #
+#########################
+draw_shades no
+
+default_color FFFFFF
+default_shade_color 1d1d1d
+color0 FF0000
+color1 00FF00
+color2 FFFF00
+
+
+
+
+TEXT
+${voffset 5}
+${goto 92}CPU1  Carga: ${font Ubuntu:style=Bold:size=9}${color0}${cpu cpu1}%${font}${color} ${alignr 15}CPU3  Carga: ${font Ubuntu:style=Bold:size=9}${color0}${cpu cpu3}%${font}${color} ${alignr 15}
+
+${goto 92}CPU2  Carga: ${font Ubuntu:style=Bold:size=9}${color0}${cpu cpu2}%${font}${color} ${alignr 15}CPU4  Carga: ${font Ubuntu:style=Bold:size=9}${color0}${cpu cpu4}%${font}${color} ${alignr 15}
+
+
+
+${goto 92}RAM:${color1} ${font Ubuntu:style=Bold:size=9}${memperc}%${font}${color}${font Ubuntu:style=Bold:size=9}${font}    Livre: ${font Ubuntu:style=Bold:size=9}${color1}${memeasyfree}${color} ${font}${alignr 22}      Usado: ${font Ubuntu:style=Bold:size=9}${color1}${mem}${color}${font}
+
+${goto 92}HDD:${color1} ${font Ubuntu:style=Bold:size=9}${fs_used_perc /home}%${font}${color}  Livre: ${color1}${font Ubuntu:style=Bold:size=9}${fs_free /home}${color}${font} ${alignr 22}       Usado: ${font Ubuntu:style=Bold:size=9}${color1}${fs_used /home}${color1}${font}
+
+
+${if_up wlp2s0}
+${voffset -4}${goto 92}${voffset -6}${color}Upload: ${font Ubuntu:style=Bold:size=9}${color2}${upspeed wlp2s0}${color}${font} ${goto 230}Total: ${font Ubuntu:style=Bold:size=9}${color2}${totalup wlp2s0}${color2}${font}
+${voffset 4}${goto 92}${color}Sinal:   ${font Ubuntu:style=:size=9}${color2}${font Ubuntu:style=Bold:size=9}${wireless_link_qual wlp2s0}${color yellow}%${color white}                 Rede: ${color2}${font Ubuntu:style=Bold:size=9}${wireless_essid wlp2s0}${color}${font} ${alignr 15}
+${voffset 4}${goto 92}Down:   ${font Ubuntu:style=:size=9}${color2}${downspeed wlp2s0}${color}${font} ${goto 230}Total: ${font Ubuntu:style=Bold:size=9}${color2}${totaldown wlp2s0}${color}${font}
+
+ background no
+ out_to_console yes
+ out_to_x no
+ update_interval 1.0
+ total_run_times 0
+ use_spacer none
+ 
+ TEXT
+ ^fg(\#ff0000)${loadavg 1 2 3} ^fg()${time %a %b %d %I:%M%P}
+
+
+
