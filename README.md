@@ -8,11 +8,11 @@ Polybar  | [Polybar](https://github.com/jaagr/polybar)
 i3wm  | [i3wm](https://i3wm.org/)
 - - - -
 ### Dependencies ###
-* For Polybar 
-		* alsa-lib required by internal/alsa
-		* libpulse required by internal/pulseaudio
-		* i3-wm required by internal/i3
-		* jsoncpp required by internal/i3
-		* libmpdclient required by internal/mpd
-		* libcurl required by internal/github
-		* wireless_tools required by internal/network
+#### For Polybar ####
+* alsa-lib required by internal/alsa
+* libpulse required by internal/pulseaudio
+* i3-wm required by internal/i3
+* jsoncpp required by internal/i3
+* libmpdclient required by internal/mpd
+* libcurl required by internal/github
+* wireless_tools required by internal/network
